@@ -1,0 +1,15 @@
+{
+  "class_to_idx": {
+    "glioma": 0,
+    "meningioma": 1,
+    "notumor": 2,
+    "pituitary": 3
+  },
+  "idx_to_class": {
+    "0": "glioma",
+    "1": "meningioma",
+    "2": "notumor",
+    "3": "pituitary"
+  },
+  "accuracy": 0.88625
+}
