@@ -1,4 +1,4 @@
-# MedXpert-CAD: AI Medical Diagnosis System
+Medical Diagnosis (X-Ray/MRI)
 
 An advanced AI-powered diagnostic assistant for chest X-rays and MRI scans.
 
